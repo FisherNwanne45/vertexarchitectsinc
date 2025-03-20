@@ -1,0 +1,106 @@
+{
+  "id": 105,
+  "count": 1,
+  "description": "",
+  "link": "<?php echo $url; ?>/category/residential-traditional/",
+  "name": "Residential Traditional",
+  "slug": "residential-traditional",
+  "taxonomy": "category",
+  "parent": 0,
+  "meta": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v23.5 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Residential Traditional Archives - <?php echo $name; ?></title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $url; ?>/category/residential-traditional/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Residential Traditional Archives - <?php echo $name; ?>\" />\n<meta property=\"og:url\" content=\"<?php echo $url; ?>/category/residential-traditional/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $name; ?>\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"<?php echo $url; ?>/category/residential-traditional/\",\"url\":\"<?php echo $url; ?>/category/residential-traditional/\",\"name\":\"Residential Traditional Archives - <?php echo $name; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $url; ?>/#website\"},\"breadcrumb\":{\"@id\":\"<?php echo $url; ?>/category/residential-traditional/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $url; ?>/category/residential-traditional/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $url; ?>/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Residential Traditional\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $url; ?>/#website\",\"url\":\"<?php echo $url; ?>/\",\"name\":\"<?php echo $name; ?>\",\"description\":\"Architectural Services\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $url; ?>/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Residential Traditional Archives - <?php echo $name; ?>",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $url; ?>/category/residential-traditional/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Residential Traditional Archives - <?php echo $name; ?>",
+    "og_url": "<?php echo $url; ?>/category/residential-traditional/",
+    "og_site_name": "<?php echo $name; ?>",
+    "twitter_card": "summary_large_image",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "CollectionPage",
+          "@id": "<?php echo $url; ?>/category/residential-traditional/",
+          "url": "<?php echo $url; ?>/category/residential-traditional/",
+          "name": "Residential Traditional Archives - <?php echo $name; ?>",
+          "isPartOf": { "@id": "<?php echo $url; ?>/#website" },
+          "breadcrumb": {
+            "@id": "<?php echo $url; ?>/category/residential-traditional/#breadcrumb"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $url; ?>/category/residential-traditional/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $url; ?>/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Residential Traditional"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $url; ?>/#website",
+          "url": "<?php echo $url; ?>/",
+          "name": "<?php echo $name; ?>",
+          "description": "Architectural Services",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $url; ?>/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $url; ?>/wp-json/wp/v2/categories/105",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [{ "href": "<?php echo $url; ?>/wp-json/wp/v2/categories" }],
+    "about": [
+      {
+        "href": "<?php echo $url; ?>/wp-json/wp/v2/taxonomies/category"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "<?php echo $url; ?>/wp-json/wp/v2/posts?categories=105"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "id": 12666,
+  "date": "2024-09-03T13:55:08",
+  "date_gmt": "2024-09-03T13:55:08",
+  "guid": { "rendered": "<?php echo $url; ?>/?p=12666" },
+  "modified": "2024-09-03T15:10:34",
+  "modified_gmt": "2024-09-03T15:10:34",
+  "slug": "2-upton-road-in-scarborough-on-by-lima-architects-inc",
+  "status": "publish",
+  "type": "post",
+  "link": "<?php echo $url; ?>/2-upton-road-in-scarborough-on-by-lima-architects-inc/",
+  "title": {
+    "rendered": "2 Upton Road in Scarborough ON by <?php echo $name; ?>"
+  },
+  "content": {
+    "rendered": "\t\t<div data-elementor-type=\"wp-post\" data-elementor-id=\"12666\" class=\"elementor elementor-12666\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-53564f03 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"53564f03\" data-element_type=\"section\" data-settings=\"{&quot;_ha_eqh_enable&quot;:false}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6c07a851\" data-id=\"6c07a851\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-7e71545e elementor-widget elementor-widget-text-editor\" data-id=\"7e71545e\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<p>Portfolio</p><h3>2 Upton Road by <?php echo $name; ?></h3><p><a href=\"https://www.<?php echo $urlh; ?>/wp-content/uploads/2020/01/Render1-scaled.jpg\" data-elementor-lightbox-slideshow=\"8074c24\" data-elementor-lightbox-index=\"0\">\u00a0</a></p><h1 style=\"font-size: 40px; margin-bottom: 8px; font-family: Roboto; line-height: 1.1; color: #333333; white-space: normal; background-color: #ffffff;\">2 Upton Road by <?php echo $name; ?></h1><h3>Project Description</h3><p>This development features two modern towers connected by a shared podium. The project comprises 164 residential units, complemented by commercial spaces strategically located along Upton Road and Warden Avenue. The design emphasizes an upscale streetscape, incorporating high-quality materials and prominent architectural elements that enhance the fa\u00e7ade composition. The corner exposure further elevates the visual appeal, contributing to a distinctive and sophisticated presence in the neighbourhood.</p><p>Share on facebook<br />Share on google<br />Share on twitter<br />Share on linkedin</p><h3>Project Details</h3><ul><li>Client: Private\u00a0</li><li><div>Budget: 70,000,000</div></li><li>Location: 2 Upton Road, Scarborough, ON</li><li>GFA: 175,000 s.f.</li><li>Architect: <?php echo $name; ?></li></ul><h2>Looking for Architects for your next project?</h2><p>We have the best solution for your project. Quality and innovation to make your plans come true.<br /><a href=\"/contact-us/\"><br />Get in Touch </a><br />Contact us</p>\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t</div>\n\t\t",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Portfolio 2 Upton Road by <?php echo $name; ?> \u00a0 2 Upton Road by <?php echo $name; ?> Project Description This development features two modern towers connected by a shared podium. The project comprises 164 residential units, complemented by commercial spaces strategically located along Upton Road and Warden Avenue. The design emphasizes an upscale streetscape, incorporating high-quality materials and prominent architectural elements&#8230;</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 12674,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "", "_links_to": "", "_links_to_target": "" },
+  "categories": [31, 108, 110],
+  "tags": [7, 81, 41, 42, 21, 27, 94, 57, 30],
+  "class_list": [
+    "post-12666",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-portfolio",
+    "category-residential",
+    "category-residential-contemporary",
+    "tag-architecture",
+    "tag-contemporary",
+    "tag-custom-home",
+    "tag-custom-homes",
+    "tag-design",
+    "tag-lima-architects",
+    "tag-modern",
+    "tag-oakville",
+    "tag-ontario"
+  ],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v23.5 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>2 Upton Road in Scarborough ON by <?php echo $name; ?> - <?php echo $name; ?></title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $url; ?>/2-upton-road-in-scarborough-on-by-lima-architects-inc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"2 Upton Road in Scarborough ON by <?php echo $name; ?> - <?php echo $name; ?>\" />\n<meta property=\"og:description\" content=\"Portfolio 2 Upton Road by <?php echo $name; ?> \u00a0 2 Upton Road by <?php echo $name; ?> Project Description This development features two modern towers connected by a shared podium. The project comprises 164 residential units, complemented by commercial spaces strategically located along Upton Road and Warden Avenue. The design emphasizes an upscale streetscape, incorporating high-quality materials and prominent architectural elements...\" />\n<meta property=\"og:url\" content=\"<?php echo $url; ?>/2-upton-road-in-scarborough-on-by-lima-architects-inc/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $name; ?>\" />\n<meta property=\"article:published_time\" content=\"2024-09-03T13:55:08+00:00\" />\n<meta property=\"article:modified_time\" content=\"2024-09-03T15:10:34+00:00\" />\n<meta property=\"og:image\" content=\"<?php echo $url; ?>/wp-content/uploads/2024/09/2-upton-road-02-1024x640.png\" />\n\t<meta property=\"og:image:width\" content=\"1024\" />\n\t<meta property=\"og:image:height\" content=\"640\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"author\" content=\"<?php echo $email; ?>\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"<?php echo $email; ?>\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $url; ?>/2-upton-road-in-scarborough-on-by-lima-architects-inc/\",\"url\":\"<?php echo $url; ?>/2-upton-road-in-scarborough-on-by-lima-architects-inc/\",\"name\":\"2 Upton Road in Scarborough ON by <?php echo $name; ?> - <?php echo $name; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $url; ?>/#website\"},\"primaryImageOfPage\":{\"@id\":\"<?php echo $url; ?>/2-upton-road-in-scarborough-on-by-lima-architects-inc/#primaryimage\"},\"image\":{\"@id\":\"<?php echo $url; ?>/2-upton-road-in-scarborough-on-by-lima-architects-inc/#primaryimage\"},\"thumbnailUrl\":\"<?php echo $url; ?>/wp-content/uploads/2024/09/2-upton-road-02.png\",\"datePublished\":\"2024-09-03T13:55:08+00:00\",\"dateModified\":\"2024-09-03T15:10:34+00:00\",\"author\":{\"@id\":\"<?php echo $url; ?>/#/schema/person/82d07ccd308db6f0c0019fad7b0cde11\"},\"breadcrumb\":{\"@id\":\"<?php echo $url; ?>/2-upton-road-in-scarborough-on-by-lima-architects-inc/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $url; ?>/2-upton-road-in-scarborough-on-by-lima-architects-inc/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $url; ?>/2-upton-road-in-scarborough-on-by-lima-architects-inc/#primaryimage\",\"url\":\"<?php echo $url; ?>/wp-content/uploads/2024/09/2-upton-road-02.png\",\"contentUrl\":\"<?php echo $url; ?>/wp-content/uploads/2024/09/2-upton-road-02.png\",\"width\":2400,\"height\":1500,\"caption\":\"2 Upton Road\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $url; ?>/2-upton-road-in-scarborough-on-by-lima-architects-inc/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $url; ?>/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"2 Upton Road in Scarborough ON by <?php echo $name; ?>\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $url; ?>/#website\",\"url\":\"<?php echo $url; ?>/\",\"name\":\"<?php echo $name; ?>\",\"description\":\"Architectural Services\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $url; ?>/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Person\",\"@id\":\"<?php echo $url; ?>/#/schema/person/82d07ccd308db6f0c0019fad7b0cde11\",\"name\":\"<?php echo $email; ?>\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $url; ?>/#/schema/person/image/\",\"url\":\"https://secure.gravatar.com/avatar/7d85ce50532a05f0fd046f84e25e5967?s=96&d=mm&r=g\",\"contentUrl\":\"https://secure.gravatar.com/avatar/7d85ce50532a05f0fd046f84e25e5967?s=96&d=mm&r=g\",\"caption\":\"<?php echo $email; ?>\"},\"sameAs\":[\"http://limea19.sg-host.com\"],\"url\":\"<?php echo $url; ?>/author/teamitlimeadvertising-com/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "2 Upton Road in Scarborough ON by <?php echo $name; ?> - <?php echo $name; ?>",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $url; ?>/2-upton-road-in-scarborough-on-by-lima-architects-inc/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "2 Upton Road in Scarborough ON by <?php echo $name; ?> - <?php echo $name; ?>",
+    "og_description": "Portfolio 2 Upton Road by <?php echo $name; ?> \u00a0 2 Upton Road by <?php echo $name; ?> Project Description This development features two modern towers connected by a shared podium. The project comprises 164 residential units, complemented by commercial spaces strategically located along Upton Road and Warden Avenue. The design emphasizes an upscale streetscape, incorporating high-quality materials and prominent architectural elements...",
+    "og_url": "<?php echo $url; ?>/2-upton-road-in-scarborough-on-by-lima-architects-inc/",
+    "og_site_name": "<?php echo $name; ?>",
+    "article_published_time": "2024-09-03T13:55:08+00:00",
+    "article_modified_time": "2024-09-03T15:10:34+00:00",
+    "og_image": [
+      {
+        "width": 1024,
+        "height": 640,
+        "url": "<?php echo $url; ?>/wp-content/uploads/2024/09/2-upton-road-02-1024x640.png",
+        "type": "image/png"
+      }
+    ],
+    "author": "<?php echo $email; ?>",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "Written by": "<?php echo $email; ?>",
+      "Est. reading time": "1 minute"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $url; ?>/2-upton-road-in-scarborough-on-by-lima-architects-inc/",
+          "url": "<?php echo $url; ?>/2-upton-road-in-scarborough-on-by-lima-architects-inc/",
+          "name": "2 Upton Road in Scarborough ON by <?php echo $name; ?> - <?php echo $name; ?>",
+          "isPartOf": { "@id": "<?php echo $url; ?>/#website" },
+          "primaryImageOfPage": {
+            "@id": "<?php echo $url; ?>/2-upton-road-in-scarborough-on-by-lima-architects-inc/#primaryimage"
+          },
+          "image": {
+            "@id": "<?php echo $url; ?>/2-upton-road-in-scarborough-on-by-lima-architects-inc/#primaryimage"
+          },
+          "thumbnailUrl": "<?php echo $url; ?>/wp-content/uploads/2024/09/2-upton-road-02.png",
+          "datePublished": "2024-09-03T13:55:08+00:00",
+          "dateModified": "2024-09-03T15:10:34+00:00",
+          "author": {
+            "@id": "<?php echo $url; ?>/#/schema/person/82d07ccd308db6f0c0019fad7b0cde11"
+          },
+          "breadcrumb": {
+            "@id": "<?php echo $url; ?>/2-upton-road-in-scarborough-on-by-lima-architects-inc/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $url; ?>/2-upton-road-in-scarborough-on-by-lima-architects-inc/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "<?php echo $url; ?>/2-upton-road-in-scarborough-on-by-lima-architects-inc/#primaryimage",
+          "url": "<?php echo $url; ?>/wp-content/uploads/2024/09/2-upton-road-02.png",
+          "contentUrl": "<?php echo $url; ?>/wp-content/uploads/2024/09/2-upton-road-02.png",
+          "width": 2400,
+          "height": 1500,
+          "caption": "2 Upton Road"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $url; ?>/2-upton-road-in-scarborough-on-by-lima-architects-inc/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $url; ?>/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "2 Upton Road in Scarborough ON by <?php echo $name; ?>"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $url; ?>/#website",
+          "url": "<?php echo $url; ?>/",
+          "name": "<?php echo $name; ?>",
+          "description": "Architectural Services",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $url; ?>/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Person",
+          "@id": "<?php echo $url; ?>/#/schema/person/82d07ccd308db6f0c0019fad7b0cde11",
+          "name": "<?php echo $email; ?>",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $url; ?>/#/schema/person/image/",
+            "url": "https://secure.gravatar.com/avatar/7d85ce50532a05f0fd046f84e25e5967?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/7d85ce50532a05f0fd046f84e25e5967?s=96&d=mm&r=g",
+            "caption": "<?php echo $email; ?>"
+          },
+          "sameAs": ["http://limea19.sg-host.com"],
+          "url": "<?php echo $url; ?>/author/teamitlimeadvertising-com/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $url; ?>/wp-json/wp/v2/posts/12666",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [{ "href": "<?php echo $url; ?>/wp-json/wp/v2/posts" }],
+    "about": [{ "href": "<?php echo $url; ?>/wp-json/wp/v2/types/post" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $url; ?>/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $url; ?>/wp-json/wp/v2/comments?post=12666"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $url; ?>/wp-json/wp/v2/posts/12666/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $url; ?>/wp-json/wp/v2/media/12674"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "<?php echo $url; ?>/wp-json/wp/v2/media?parent=12666"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "<?php echo $url; ?>/wp-json/wp/v2/categories?post=12666"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "<?php echo $url; ?>/wp-json/wp/v2/tags?post=12666"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

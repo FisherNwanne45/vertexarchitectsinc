@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "provider_name": "<?php echo $name; ?>",
+  "provider_url": "<?php echo $url; ?>",
+  "author_name": "<?php echo $email; ?>",
+  "author_url": "<?php echo $url; ?>/author/teamitlimeadvertising-com/",
+  "title": "1925-1951 Sheppard Ave, Toronto ON",
+  "type": "rich",
+  "width": 600,
+  "height": 338,
+  "html": "<blockquote class=\"wp-embedded-content\" data-secret=\"HI8bkyL1ur\"><a href=\"<?php echo $url; ?>/portfolio/1925-1951-sheppard-ave-toronto-plaza-commercial/\">1925-1951 Sheppard Ave Toronto \u2013 Plaza  / Commercial</a></blockquote><iframe sandbox=\"allow-scripts\" security=\"restricted\" src=\"<?php echo $url; ?>/portfolio/1925-1951-sheppard-ave-toronto-plaza-commercial/embed/#?secret=HI8bkyL1ur\" width=\"600\" height=\"338\" title=\"&#8220;1925-1951 Sheppard Ave Toronto \u2013 Plaza  / Commercial&#8221; &#8212; <?php echo $name; ?>\" data-secret=\"HI8bkyL1ur\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"wp-embedded-content\"></iframe><script type=\"text/javascript\">\n/* <![CDATA[ */\n/*! This file is auto-generated */\n!function(d,l){\"use strict\";l.querySelector&&d.addEventListener&&\"undefined\"!=typeof URL&&(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&&!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret=\"'+t.secret+'\"]'),o=l.querySelectorAll('blockquote[data-secret=\"'+t.secret+'\"]'),c=new RegExp(\"^https?:$\",\"i\"),i=0;i<o.length;i++)o[i].style.display=\"none\";for(i=0;i<a.length;i++)s=a[i],e.source===s.contentWindow&&(s.removeAttribute(\"style\"),\"height\"===t.message?(1e3<(r=parseInt(t.value,10))?r=1e3:~~r<200&&(r=200),s.height=r):\"link\"===t.message&&(r=new URL(s.getAttribute(\"src\")),n=new URL(t.value),c.test(n.protocol))&&n.host===r.host&&l.activeElement===s&&(d.top.location.href=t.value))}},d.addEventListener(\"message\",d.wp.receiveEmbedMessage,!1),l.addEventListener(\"DOMContentLoaded\",function(){for(var e,t,s=l.querySelectorAll(\"iframe.wp-embedded-content\"),r=0;r<s.length;r++)(t=(e=s[r]).getAttribute(\"data-secret\"))||(t=Math.random().toString(36).substring(2,12),e.src+=\"#?secret=\"+t,e.setAttribute(\"data-secret\",t)),e.contentWindow.postMessage({message:\"ready\",secret:t},\"*\")},!1)))}(window,document);\n/* ]]> */\n</script>\n",
+  "thumbnail_url": "<?php echo $url; ?>/wp-content/uploads/2024/01/Screen-Shot-2024-02-09-at-4.01.02-PM.jpg",
+  "thumbnail_width": 1120,
+  "thumbnail_height": 618,
+  "description": "Experience Sheppard Plaza's revival: <?php echo $name; ?> unveils a modern makeover from 1925 to 1951. Out with old cladding, in with sleek architectural elements and high-end aluminum composite panels. Elevate your space with our elegant design, meeting the demand for a sophisticated, upscale appearance."
+}

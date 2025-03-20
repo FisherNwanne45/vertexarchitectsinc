@@ -1,0 +1,19 @@
+/* ======= Scrollbar style  ======= */
+::-webkit-scrollbar {
+    width: 0px;
+}
+::-webkit-scrollbar-track {
+    background: #fff;
+}
+::-webkit-scrollbar-thumb {
+    background: #171717;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #171717;
+}
+
+html{
+scrollbar-width: none; /* Firefox */
+-ms-overflow-style: none;  /* IE 10+ */
+}
+
