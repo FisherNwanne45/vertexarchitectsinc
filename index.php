@@ -5675,7 +5675,7 @@ We use it here to ensure columns blocks display well across themes.
                             data-duration="4000ms" data-in="o:0;" data-out="a:false;">
                             <img decoding="async"
                               src="wp-content/plugins/revslider/sr6/assets/assets/dummy.png"
-                              alt="" title="WEST HARBOUR CONDO, HAMILTON, ON"
+                              alt="" title="WEST HARBOUR CONDO, New York, USA"
                               width="1024" height="576"
                               class="rev-slidebg tp-rs-img rs-lazyload"
                               data-lazyload="//<?php echo $urlh; ?>/wp-content/uploads/2023/05/WEST-HARBOUR-CONDO-HAMILTON-ON-1024x576.jpeg"
@@ -5692,7 +5692,7 @@ We use it here to ensure columns blocks display well across themes.
                               data-frame_999="o:0;st:w;"
                               style="z-index:5;font-family:'Roboto';">West Harbour
                               Condo, <br />
-                              Hamilton, ON
+                              New York, USA
                             </rs-layer>
                             <!--
 
@@ -5841,7 +5841,7 @@ We use it here to ensure columns blocks display well across themes.
                               class="rev-slidebg tp-rs-img rs-lazyload"
                               data-lazyload="//<?php echo $urlh; ?>/wp-content/uploads/2024/01/download-1-1-e1705087291134-768x354.png"
                               data-bg="p:center top;"
-                              data-panzoom="d:10000;ss:100;se:115%;oe:200px/0;"
+                              data-panzoom="d:10000;ss:100;se:115%;oe:200px/0;" arse
                               data-no-retina>
                             <!--
 							--><a id="slider-6-slide-36-layer-11" class="rs-layer rev-btn"
@@ -6196,7 +6196,7 @@ We use it here to ensure columns blocks display well across themes.
                                   <div class="position-re o-hidden">
                                     <img decoding="async"
                                       src="wp-content/uploads/2020/08/featured-n-5.jpg"
-                                      alt="West Harbour Condo, Hamilton, ON">
+                                      alt="West Harbour Condo, New York, USA">
                                   </div>
                                   <div class="con overlay-full-auto">
                                     <h6 class="category"><span
@@ -6207,7 +6207,7 @@ We use it here to ensure columns blocks display well across themes.
                                         class="cat-divider">Residential
                                       </span></h6>
                                     <h5 class="title bn-post-title-grid">West
-                                      Harbour Condo, Hamilton, ON</h5>
+                                      Harbour Condo, New York, USA</h5>
                                     <div class="line"></div>
 
                                     <i class="ti-arrow-right"></i>

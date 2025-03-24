@@ -5371,7 +5371,7 @@ We use it here to ensure columns blocks display well across themes.
     .woocommerce a.button,
     .woocommerce button.button,
     .woocommerce input.button,
-    .woocommerce #respond input#submit.alt,
+    .woocommerce #respond input#sut.alt,
     .woocommerce a.button.alt,
     .woocommerce button.button.alt,
     .woocommerce input.button.alt,
@@ -5778,1232 +5778,146 @@ We use it here to ensure columns blocks display well across themes.
           </div>
         </div>
       </section>
+
       <section
-        class="elementor-section elementor-top-section elementor-element elementor-element-93a1af1 elementor-section-content-middle elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-        data-id="93a1af1" data-element_type="section"
-        data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;_ha_eqh_enable&quot;:false}">
+        class="elementor-section elementor-top-section elementor-element elementor-element-578c4e68 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+        data-id="578c4e68" data-element_type="section" data-settings="{&quot;_ha_eqh_enable&quot;:false}">
         <div class="elementor-container elementor-column-gap-no">
-          <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-0b6bb01"
-            data-id="0b6bb01" data-element_type="column">
+          <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5df556fe"
+            data-id="5df556fe" data-element_type="column">
             <div class="elementor-widget-wrap elementor-element-populated">
-              <div class="elementor-element elementor-element-03df726 elementor-widget elementor-widget-image"
-                data-id="03df726" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                  <img fetchpriority="high" decoding="async" width="735" height="853"
-                    src="../wp-content/uploads/2023/04/Headshot_1.jpg"
-                    class="attachment-medium_large size-medium_large wp-image-8968" alt=""
-                    srcset="<?php echo $url; ?>/wp-content/uploads/2023/04/Headshot_1.jpg 735w, <?php echo $url; ?>/wp-content/uploads/2023/04/Headshot_1.jpg 258w"
-                    sizes="(max-width: 735px) 100vw, 735px" />
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-87d5bd0"
-            data-id="87d5bd0" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-              <div class="elementor-element elementor-element-27b9be9 elementor-invisible elementor-widget elementor-widget-bauen-title"
-                data-id="27b9be9" data-element_type="widget"
+              <div class="elementor-element elementor-element-c6f3832 elementor-invisible elementor-widget elementor-widget-bauen-title"
+                data-id="c6f3832" data-element_type="widget"
                 data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
                 data-widget_type="bauen-title.default">
                 <div class="elementor-widget-container">
 
 
-                  <h2 class="section-title text-left">Meet our <span class="text-color-red">
-                      <br>Leadership </span></h2>
-
-
-
-
-                </div>
-              </div>
-              <div class="elementor-element elementor-element-e4ae67f elementor-widget elementor-widget-heading"
-                data-id="e4ae67f" data-element_type="widget" data-widget_type="heading.default">
-                <div class="elementor-widget-container">
-                  <h2 class="elementor-heading-title elementor-size-default"><?php echo $oga; ?>,
-                    OAA
+                  <h2 class="section-title text-left">Meet
+                    <span class="text-color-red">our leadership </span>
                   </h2>
-                </div>
-              </div>
-              <div class="elementor-element elementor-element-54b1b38 elementor-invisible elementor-widget elementor-widget-bauen-title"
-                data-id="54b1b38" data-element_type="widget"
-                data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
-                data-widget_type="bauen-title.default">
-                <div class="elementor-widget-container">
-
-
-
-                  <p>
-                  <p>Prior to founding our Ontario architectural firm in 2013, <?php echo $oga; ?>
-                    spent
-                    many years passionately working in the industry. A project leader with
-                    another architecture firm for a decade, his experience inspired him to
-                    create his own architecture company.</p>
-                  <p>Today, he has assembled a highly skilled multi-disciplinary team including
-                    intern architects, architectural technologists, interior designers, and
-                    graphic designers.</p>
-                  </p>
-
-
-
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <section
-        class="elementor-section elementor-top-section elementor-element elementor-element-ee72b5b elementor-section-content-middle elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-        data-id="ee72b5b" data-element_type="section"
-        data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;_ha_eqh_enable&quot;:false}">
-        <div class="elementor-container elementor-column-gap-no">
-          <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-683c5de"
-            data-id="683c5de" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-              <div class="elementor-element elementor-element-938ab42 elementor-invisible elementor-widget elementor-widget-bauen-title"
-                data-id="938ab42" data-element_type="widget"
-                data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
-                data-widget_type="bauen-title.default">
-                <div class="elementor-widget-container">
-
-
 
 
 
 
                 </div>
               </div>
-              <div class="elementor-element elementor-element-540c295 elementor-widget elementor-widget-image"
-                data-id="540c295" data-element_type="widget" data-widget_type="image.default">
-                <div class="elementor-widget-container">
-                  <img decoding="async" width="900" height="600"
-                    src="../wp-content/uploads/2023/04/team-1024x683.jpg"
-                    class="attachment-large size-large wp-image-8461" alt=""
-                    srcset="<?php echo $url; ?>/wp-content/uploads/2023/04/team-1024x683.jpeg 1024w, <?php echo $url; ?>/wp-content/uploads/2023/04/team-300x200.jpeg 300w, <?php echo $url; ?>/wp-content/uploads/2023/04/team-768x512.jpeg 768w, <?php echo $url; ?>/wp-content/uploads/2023/04/team.jpeg 1200w"
-                    sizes="(max-width: 900px) 100vw, 900px" />
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4056310"
-            data-id="4056310" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-              <div class="elementor-element elementor-element-e879bdf elementor-invisible elementor-widget elementor-widget-bauen-title"
-                data-id="e879bdf" data-element_type="widget"
-                data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
-                data-widget_type="bauen-title.default">
-                <div class="elementor-widget-container">
-
-
-                  <h2 class="section-title text-left">Operational <span class="text-color-red">
-                      Excellence </span></h2>
-
-                  <p>
-                  <p>Our method of working is highly participatory and involves clients, engineers
-                    and consultants, all contributing from the beginning of the project and
-                    throughout the design process. Our approach to design is not strictly
-                    conventional and involves the use of 3D models to help test and develop our
-                    proposed design concepts. We also believe that the design process may have
-                    different directions and that it requires designers to think and draw until
-                    the best possible outcome is reached, considering each finished detail in
-                    the development of the overall design.</p>
-                  </p>
-
-
-
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <section
-        class="elementor-section elementor-top-section elementor-element elementor-element-32ca7a49 elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-height-default elementor-section-height-default"
-        data-id="32ca7a49" data-element_type="section" data-settings="{&quot;_ha_eqh_enable&quot;:false}">
-        <div class="elementor-container elementor-column-gap-default">
-          <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e0ed57d"
-            data-id="e0ed57d" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-              <div class="elementor-section elementor-inner-section elementor-element elementor-element-7b8b3ba elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                data-id="7b8b3ba" data-element_type="section"
+              <section
+                class="elementor-section elementor-inner-section elementor-element elementor-element-25b644ce elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+                data-id="25b644ce" data-element_type="section"
                 data-settings="{&quot;_ha_eqh_enable&quot;:false}">
-                <div class="elementor-container elementor-column-gap-default">
-                  <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-4fcc89a8"
-                    data-id="4fcc89a8" data-element_type="column">
+                <div class="elementor-container elementor-column-gap-no">
+                  <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-19d60dbf"
+                    data-id="19d60dbf" data-element_type="column">
                     <div class="elementor-widget-wrap elementor-element-populated">
-                      <div class="elementor-element elementor-element-67266f0f elementor-widget elementor-widget-bauen-title"
-                        data-id="67266f0f" data-element_type="widget"
-                        data-widget_type="bauen-title.default">
+                      <div class="elementor-element elementor-element-fa91ff elementor-widget__width-auto ha-has-bg-overlay elementor-invisible elementor-widget elementor-widget-heading"
+                        data-id="fa91ff" data-element_type="widget"
+                        data-settings="{&quot;_animation&quot;:&quot;zoomIn&quot;}"
+                        data-widget_type="heading.default">
                         <div class="elementor-widget-container">
-
-
-                          <h2 class="section-title text-left">Our <span
-                              class="text-color-red"> Team</span></h2>
-
-
-
-
+                          <p class="elementor-heading-title elementor-size-default">Our
+                            CEO</p>
                         </div>
                       </div>
-                      <div class="elementor-element elementor-element-e873e2e elementor-widget elementor-widget-bauen-team"
-                        data-id="e873e2e" data-element_type="widget"
-                        data-widget_type="bauen-team.default">
+                      <div class="elementor-element elementor-element-6e66c49c elementor-widget elementor-widget-icon-box"
+                        data-id="6e66c49c" data-element_type="widget"
+                        data-widget_type="icon-box.default">
                         <div class="elementor-widget-container">
+                          <div class="elementor-icon-box-wrapper">
 
-                          <div class="sec-team team">
 
-                            <div class="row bn-team-grid">
-                              <div class="col-md-3 mb-40">
-                                <div class="item">
-                                  <div class="img"> <img decoding="async"
-                                      src="../wp-content/uploads/2023/03/Headshot_1.jpg"
-                                      class="img-fluid"
-                                      alt="<?php echo $oga; ?>">
-                                  </div>
-                                  <div class="info">
-                                    <h6><?php echo $oga; ?></h6>
+                            <div class="elementor-icon-box-content">
+                              <img decoding="async" width="150" height="150"
+                                src="../wp-content/uploads/2023/03/Headshot_1.jpg"
+                                class="attachment-thumbnail size-thumbnail wp-image-2222"
+                                alt=""
+                                srcset="<?php echo $url; ?>/wp-content/uploads/2023/03/Headshot_1.jpg 150w, <?php echo $url; ?>/wp-content/uploads/2023/03/Headshot_1-300x300.jpg 300w, <?php echo $url; ?>/wp-content/uploads/2023/03/Headshot_1.jpg 600w"
+                                sizes="(max-width: 150px) 100vw, 150px" />
 
-                                    <p>Principal Architect, OAA</p>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="col-md-3 mb-40">
-                                <div class="item">
-                                  <div class="img"> <img decoding="async"
-                                      src="../wp-content/uploads/2023/03/rose.jpg"
-                                      class="img-fluid" alt="Rose Atia">
-                                  </div>
-                                  <div class="info">
-                                    <h6>Rose Atia</h6>
+                              <h3 class="elementor-icon-box-title">
+                                <span>
+                                  <?php echo $oga; ?>,
+                                  OAA </span>
+                              </h3>
 
-                                    <p>Intern Architect, OAA</p>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="col-md-3 mb-40">
-                                <div class="item">
-                                  <div class="img"> <img decoding="async"
-                                      src="../wp-content/uploads/2023/03/renata.jpg"
-                                      class="img-fluid" alt="Renata Mattos">
-                                  </div>
-                                  <div class="info">
-                                    <h6>Renata Mattos</h6>
 
-                                    <p>Architectural Technologist</p>
-                                  </div>
-                                </div>
-                              </div>
-                              <!-- <div class="col-md-3 mb-40">
-                                <div class="item">
-                                  <div class="img"> <img decoding="async"
-                                      src="../wp-content/uploads/2023/03/amthony.jpg"
-                                      class="img-fluid"
-                                      alt="Anthony Di Michele"> </div>
-                                  <div class="info">
-                                    <h6>Anthony Di Michele</h6>
 
-                                    <p>Senior Associate and Head Designer</p>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="col-md-3 mb-40">
-                                <div class="item">
-                                  <div class="img"> <img decoding="async"
-                                      src="../wp-content/uploads/2023/03/New-Project-6.jpg"
-                                      class="img-fluid" alt="Pedro Paul">
-                                  </div>
-                                  <div class="info">
-                                    <h6>Pedro Paul</h6>
-
-                                    <p>Architectural Designer</p>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="col-md-3 mb-40">
-                                <div class="item">
-                                  <div class="img"> <img decoding="async"
-                                      src="../wp-content/uploads/2023/03/vitor_lima.jpg"
-                                      class="img-fluid" alt="Vitor Lima">
-                                  </div>
-                                  <div class="info">
-                                    <h6>Vitor Lima</h6>
-
-                                    <p>IT Director</p>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="col-md-3 mb-40">
-                                <div class="item">
-                                  <div class="img"> <img decoding="async"
-                                      src="../wp-content/uploads/2023/03/salma.jpg"
-                                      class="img-fluid" alt="Salma Mahgoub">
-                                  </div>
-                                  <div class="info">
-                                    <h6>Salma Mahgoub</h6>
-
-                                    <p>Architectural designer</p>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="col-md-3 mb-40">
-                                <div class="item">
-                                  <div class="img"> <img decoding="async"
-                                      src="../wp-content/uploads/2023/03/davi.jpg"
-                                      class="img-fluid" alt="Davi Santana">
-                                  </div>
-                                  <div class="info">
-                                    <h6>Davi Santana</h6>
-
-                                    <p>Architectural Designer</p>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="col-md-3 mb-40">
-                                <div class="item">
-                                  <div class="img"> <img decoding="async"
-                                      src="../wp-content/uploads/2023/03/ashley.jpg"
-                                      class="img-fluid"
-                                      alt="Ashley McClelland"> </div>
-                                  <div class="info">
-                                    <h6>Ashley McClelland</h6>
-
-                                    <p>Office Manager</p>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="col-md-3 mb-40">
-                                <div class="item">
-                                  <div class="img"> <img decoding="async"
-                                      src="../wp-content/uploads/2023/03/claiton.jpg"
-                                      class="img-fluid" alt="Cleiton Marques">
-                                  </div>
-                                  <div class="info">
-                                    <h6>Cleiton Marques</h6>
-
-                                    <p>Architectural and Graphic Designer</p>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="col-md-3 mb-40">
-                                <div class="item">
-                                  <div class="img"> <img decoding="async"
-                                      src="../wp-content/uploads/2023/03/vikky.jpg"
-                                      class="img-fluid" alt="Victoria King">
-                                  </div>
-                                  <div class="info">
-                                    <h6>Victoria King</h6>
-
-                                    <p>Interior Designer / Project Manager</p>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="col-md-3 mb-40">
-                                <div class="item">
-                                  <div class="img"> <img decoding="async"
-                                      src="../wp-content/uploads/2023/03/glynn.jpg"
-                                      class="img-fluid" alt="Glynn King">
-                                  </div>
-                                  <div class="info">
-                                    <h6>Glynn King</h6>
-
-                                    <p>Interior Designer / Project Manager</p>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="col-md-3 mb-40">
-                                <div class="item">
-                                  <div class="img"> <img decoding="async"
-                                      src="../wp-content/uploads/2023/03/New-Project-7.jpg"
-                                      class="img-fluid" alt="Caio Braga">
-                                  </div>
-                                  <div class="info">
-                                    <h6>Caio Braga</h6>
-
-                                    <p>Architectural Designer</p>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="col-md-3 mb-40">
-                                <div class="item">
-                                  <div class="img"> <img decoding="async"
-                                      src="../wp-content/uploads/2023/03/New-Project-5.jpg"
-                                      class="img-fluid" alt="Tomas Martins">
-                                  </div>
-                                  <div class="info">
-                                    <h6>Tomas Martins</h6>
-
-                                    <p>Architectural Designer</p>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="col-md-3 mb-40">
-                                <div class="item">
-                                  <div class="img"> <img decoding="async"
-                                      src="../wp-content/uploads/2023/03/Picture1-2-e1673536416584.jpg"
-                                      class="img-fluid" alt="Paulo Lemos">
-                                  </div>
-                                  <div class="info">
-                                    <h6>Paulo Lemos</h6>
-
-                                    <p>Architectural Designer</p>
-                                  </div>
-                                </div>
-                              </div>-->
                             </div>
+
                           </div>
-
                         </div>
                       </div>
                     </div>
                   </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <section
-        class="elementor-section elementor-top-section elementor-element elementor-element-2cd934cd elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-        data-id="2cd934cd" data-element_type="section"
-        data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;_ha_eqh_enable&quot;:false}">
-        <div class="elementor-container elementor-column-gap-no">
-          <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-488d448f"
-            data-id="488d448f" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-              <div class="elementor-element elementor-element-5c98465 elementor-widget elementor-widget-bauen-title"
-                data-id="5c98465" data-element_type="widget" data-widget_type="bauen-title.default">
-                <div class="elementor-widget-container">
-
-
-                  <h2 class="section-title text-left">Meet <span class="text-color-red"> The
-                      Team</span></h2>
-
-                  <p>
-                  <p>Looking for architecture firms in <?php echo $place; ?> for your commercial
-                    buildings or
-                    residential architecture project? Get to know who’s who on the
-                    <?php echo $name; ?> team here</p>
-                  </p>
-
-
-
-                </div>
-              </div>
-              <section
-                class="elementor-section elementor-inner-section elementor-element elementor-element-32fadf8 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                data-id="32fadf8" data-element_type="section"
-                data-settings="{&quot;_ha_eqh_enable&quot;:false}">
-                <div class="elementor-container elementor-column-gap-default">
-                  <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-af1722c"
-                    data-id="af1722c" data-element_type="column">
+                  <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-189a4485"
+                    data-id="189a4485" data-element_type="column">
                     <div class="elementor-widget-wrap elementor-element-populated">
-                      <div class="elementor-element elementor-element-d0cbb63 elementor-invisible elementor-widget elementor-widget-image"
-                        data-id="d0cbb63" data-element_type="widget"
-                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
-                        data-widget_type="image.default">
+
+                      <div class="elementor-element elementor-element-65d72da6 elementor-widget elementor-widget-icon-box"
+                        data-id="65d72da6" data-element_type="widget"
+                        data-widget_type="icon-box.default">
                         <div class="elementor-widget-container">
-                          <img decoding="async" width="150" height="150"
-                            src="../wp-content/uploads/2023/03/Headshot_1.jpg"
-                            class="attachment-thumbnail size-thumbnail wp-image-2222"
-                            alt=""
-                            srcset="<?php echo $url; ?>/wp-content/uploads/2023/03/Headshot_1.jpg 150w, <?php echo $url; ?>/wp-content/uploads/2023/03/Headshot_1-300x300.jpg 300w, <?php echo $url; ?>/wp-content/uploads/2023/03/Headshot_1.jpg 600w"
-                            sizes="(max-width: 150px) 100vw, 150px" />
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-bf43978 elementor-widget elementor-widget-heading"
-                        data-id="bf43978" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <h3 class="elementor-heading-title elementor-size-default">
-                            <?php echo $oga; ?></h3>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-4498d05 elementor-widget elementor-widget-heading"
-                        data-id="4498d05" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <p class="elementor-heading-title elementor-size-default">
-                            Principal Architect, OAA, NCARB</p>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-cbefd06 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor"
-                        data-id="cbefd06" data-element_type="widget"
-                        data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                          <p><?php echo $oga; ?> is a highly experienced commercial and
-                            residential architect, possessing a broad knowledge of
-                            institutional projects. He brings personal experience and
-                            new ideas to our <?php echo $place; ?> ARCHITECTURE company
-                            and believes
-                            that great architecture happens when beautiful designs meet
-                            practicality.</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6199870"
-                    data-id="6199870" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                      <div class="elementor-element elementor-element-b5976c9 elementor-invisible elementor-widget elementor-widget-image"
-                        data-id="b5976c9" data-element_type="widget"
-                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
-                        data-widget_type="image.default">
-                        <div class="elementor-widget-container">
-                          <img loading="lazy" decoding="async" width="600" height="600"
-                            src="../wp-content/uploads/2024/06/Untitled-design-64.jpg"
-                            class="attachment-full size-full wp-image-12189" alt=""
-                            srcset="<?php echo $url; ?>/wp-content/uploads/2024/06/Untitled-design-64.jpg 600w, <?php echo $url; ?>/wp-content/uploads/2024/06/Untitled-design-64-300x300.jpg 300w, <?php echo $url; ?>/wp-content/uploads/2024/06/Untitled-design-64-150x150.jpg 150w"
-                            sizes="(max-width: 600px) 100vw, 600px" />
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-c9aadc3 elementor-widget elementor-widget-heading"
-                        data-id="c9aadc3" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <h3 class="elementor-heading-title elementor-size-default">
-                            Bradley Cook</h3>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-57f1325 elementor-widget elementor-widget-heading"
-                        data-id="57f1325" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <p class="elementor-heading-title elementor-size-default">
-                            Architect, OAA, NCARB</p>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-22d2337 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor"
-                        data-id="22d2337" data-element_type="widget"
-                        data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                          <p>Brad brings over 27 years of award-winning experience in
-                            residential, commercial &amp; industrial sectors to the
-                            firm. Having worked in design and construction, and
-                            architecture companies, Brad’s problem-solving skills and
-                            holistic view provide a unique all-round approach. </p>
+                          <div class="elementor-icon-box-wrapper">
+
+
+                            <div class="elementor-icon-box-content">
+
+
+                              <!-- start-->
+
+                              <div class="elementor-element elementor-element-e4ae67f elementor-widget elementor-widget-heading"
+                                data-id="e4ae67f" data-element_type="widget"
+                                data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                  <h2
+                                    class="elementor-heading-title elementor-size-default">
+
+                                    Principal Architect, OAA, NCARB
+                                  </h2>
+                                </div>
+                              </div>
+                              <div class="elementor-element elementor-element-54b1b38 elementor-invisible elementor-widget elementor-widget-bauen-title"
+                                data-id="54b1b38" data-element_type="widget"
+                                data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
+                                data-widget_type="bauen-title.default">
+                                <div class="elementor-widget-container">
+
+
+
+                                  <p>
+                                  <p>Prior to founding our Ontario architectural
+                                    firm in 2013, <?php echo $oga; ?>
+                                    spent
+                                    many years passionately working in the
+                                    industry. A project leader with
+                                    another architecture firm for a decade, his
+                                    experience inspired him to
+                                    create his own architecture company.</p>
+                                  <p>Today, he has assembled a highly skilled
+                                    multi-disciplinary team including
+                                    intern architects, architectural
+                                    technologists, interior designers, and
+                                    graphic designers.</p>
+                                  </p>
+
+
+
+                                </div>
+                              </div>
+
+
+                              <!-- end -->
+
+                            </div>
+
+                          </div>
                         </div>
                       </div>
                     </div>
                   </div>
-                  <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-686f279e"
-                    data-id="686f279e" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                      <div class="elementor-element elementor-element-5f481496 elementor-invisible elementor-widget elementor-widget-image"
-                        data-id="5f481496" data-element_type="widget"
-                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
-                        data-widget_type="image.default">
-                        <div class="elementor-widget-container">
-                          <img loading="lazy" decoding="async" width="600" height="600"
-                            src="../wp-content/uploads/2023/03/rose.jpg"
-                            class="attachment-full size-full wp-image-2221" alt=""
-                            srcset="<?php echo $url; ?>/wp-content/uploads/2023/03/rose.jpg 600w, <?php echo $url; ?>/wp-content/uploads/2023/03/rose-300x300.jpg 300w, <?php echo $url; ?>/wp-content/uploads/2023/03/rose-150x150.jpg 150w"
-                            sizes="(max-width: 600px) 100vw, 600px" />
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-5b1682ad elementor-widget elementor-widget-heading"
-                        data-id="5b1682ad" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <h3 class="elementor-heading-title elementor-size-default">Rose
-                            Atia</h3>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-14173526 elementor-widget elementor-widget-heading"
-                        data-id="14173526" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <p class="elementor-heading-title elementor-size-default">Intern
-                            Architect, OAA</p>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-19ef44cb elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor"
-                        data-id="19ef44cb" data-element_type="widget"
-                        data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                          <p>Highly skilled at architectural rendering, Rose Atia has a
-                            talent for turning general ideas into high-level technical
-                            drawings. Passionate about residential and commercial
-                            architecture projects, her architectural rendering in the
-                            design process creates unique spaces that integrate balance
-                            with sophistication.</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+
                 </div>
               </section>
-              <section
-                class="elementor-section elementor-inner-section elementor-element elementor-element-2435689 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                data-id="2435689" data-element_type="section"
-                data-settings="{&quot;_ha_eqh_enable&quot;:false}">
-                <div class="elementor-container elementor-column-gap-default">
-                  <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-d39ca83"
-                    data-id="d39ca83" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                      <div class="elementor-element elementor-element-8ee346f elementor-invisible elementor-widget elementor-widget-image"
-                        data-id="8ee346f" data-element_type="widget"
-                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
-                        data-widget_type="image.default">
-                        <div class="elementor-widget-container">
-                          <img loading="lazy" decoding="async" width="150" height="150"
-                            src="../wp-content/uploads/2024/06/Untitled-design-65-150x150.jpg"
-                            class="attachment-thumbnail size-thumbnail wp-image-12298"
-                            alt=""
-                            srcset="<?php echo $url; ?>/wp-content/uploads/2024/06/Untitled-design-65-150x150.jpg 150w, <?php echo $url; ?>/wp-content/uploads/2024/06/Untitled-design-65-300x300.jpg 300w, <?php echo $url; ?>/wp-content/uploads/2024/06/Untitled-design-65.jpg 600w"
-                            sizes="(max-width: 150px) 100vw, 150px" />
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-229168f elementor-widget elementor-widget-heading"
-                        data-id="229168f" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <h3 class="elementor-heading-title elementor-size-default">Huda
-                            Al-Obaidi</h3>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-2b930f0 elementor-widget elementor-widget-heading"
-                        data-id="2b930f0" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <p class="elementor-heading-title elementor-size-default">Intern
-                            Architect, OAA</p>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-f6876a6 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor"
-                        data-id="f6876a6" data-element_type="widget"
-                        data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                          <p>Huda brings innovative design solutions to every project. She
-                            shares diverse experience and creative solutions to our
-                            residential and commercial architects. Passionate about all
-                            types of architectural projects, she is a creative problem
-                            solver.</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-c269533"
-                    data-id="c269533" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                      <div class="elementor-element elementor-element-0b64600 elementor-invisible elementor-widget elementor-widget-image"
-                        data-id="0b64600" data-element_type="widget"
-                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
-                        data-widget_type="image.default">
-                        <div class="elementor-widget-container">
-                          <img loading="lazy" decoding="async" width="600" height="600"
-                            src="../wp-content/uploads/2023/03/renata.jpg"
-                            class="attachment-full size-full wp-image-2220" alt=""
-                            srcset="<?php echo $url; ?>/wp-content/uploads/2023/03/renata.jpg 600w, <?php echo $url; ?>/wp-content/uploads/2023/03/renata-300x300.jpg 300w, <?php echo $url; ?>/wp-content/uploads/2023/03/renata-150x150.jpg 150w"
-                            sizes="(max-width: 600px) 100vw, 600px" />
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-4cc2730 elementor-widget elementor-widget-heading"
-                        data-id="4cc2730" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <h3 class="elementor-heading-title elementor-size-default">
-                            Renata Mattos</h3>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-ed29b55 elementor-widget elementor-widget-heading"
-                        data-id="ed29b55" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <p class="elementor-heading-title elementor-size-default">
-                            Architectural Technologist</p>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-2d1c251 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor"
-                        data-id="2d1c251" data-element_type="widget"
-                        data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                          <p>Highly experienced architectural technician, Renata Mattos is
-                            the lynchpin of our architecture firm <?php echo $place; ?>.
-                            A Sheridan
-                            College graduate, she heads all major design development
-                            projects. Her 3D modelling and interior design skills are
-                            what make us and our services so sought-after.</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-ef02b51"
-                    data-id="ef02b51" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                      <div class="elementor-element elementor-element-9a4ee22 elementor-invisible elementor-widget elementor-widget-image"
-                        data-id="9a4ee22" data-element_type="widget"
-                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
-                        data-widget_type="image.default">
-                        <div class="elementor-widget-container">
-                          <img loading="lazy" decoding="async" width="600" height="600"
-                            src="../wp-content/uploads/2024/12/Untitled-design-86.jpg"
-                            class="attachment-full size-full wp-image-13766" alt=""
-                            srcset="<?php echo $url; ?>/wp-content/uploads/2024/12/Untitled-design-86.jpg 600w, <?php echo $url; ?>/wp-content/uploads/2024/12/Untitled-design-86-300x300.jpg 300w, <?php echo $url; ?>/wp-content/uploads/2024/12/Untitled-design-86-150x150.jpg 150w"
-                            sizes="(max-width: 600px) 100vw, 600px" />
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-8a4ccfb elementor-widget elementor-widget-heading"
-                        data-id="8a4ccfb" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <h3 class="elementor-heading-title elementor-size-default">Lucas
-                            Andrade</h3>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-6d5232f elementor-widget elementor-widget-heading"
-                        data-id="6d5232f" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <p class="elementor-heading-title elementor-size-default">
-                            Architectural Designer</p>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-8f14a6d elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor"
-                        data-id="8f14a6d" data-element_type="widget"
-                        data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                          <p>  As an architectural designer, Lucas stands out as a
-                            passionate advocate for integrating cutting-edge
-                            technologies into his work. His enthusiasm extends beyond
-                            conventional design practices, as he actively explores and
-                            implements innovative tools and techniques that push the
-                            boundaries of architectural creativity. Lucas&#8217;s
-                            expertise also shines through his proficiency in developing
-                            intricate 3D images. Through these visuals, he not only
-                            visualizes architectural concepts with stunning detail but
-                            also uses them as powerful communication tools to convey his
-                            vision to clients and collaborators.</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </section>
-              <!-- <section
-                class="elementor-section elementor-inner-section elementor-element elementor-element-2a17a5e elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                data-id="2a17a5e" data-element_type="section"
-                data-settings="{&quot;_ha_eqh_enable&quot;:false}">
-                <div class="elementor-container elementor-column-gap-default">
-                  <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-20b3d07"
-                    data-id="20b3d07" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                      <div class="elementor-element elementor-element-b1eb1aa elementor-invisible elementor-widget elementor-widget-image"
-                        data-id="b1eb1aa" data-element_type="widget"
-                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
-                        data-widget_type="image.default">
-                        <div class="elementor-widget-container">
-                          <img loading="lazy" decoding="async" width="150" height="150"
-                            src="../wp-content/uploads/2023/03/amthony-150x150.jpg"
-                            class="attachment-thumbnail size-thumbnail wp-image-2219"
-                            alt=""
-                            srcset="<?php echo $url; ?>/wp-content/uploads/2023/03/amthony-150x150.jpg 150w, <?php echo $url; ?>/wp-content/uploads/2023/03/amthony-300x300.jpg 300w, <?php echo $url; ?>/wp-content/uploads/2023/03/amthony.jpg 600w"
-                            sizes="(max-width: 150px) 100vw, 150px" />
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-a5d46fc elementor-widget elementor-widget-heading"
-                        data-id="a5d46fc" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <h3 class="elementor-heading-title elementor-size-default">
-                            Anthony Di Michele</h3>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-649170e elementor-widget elementor-widget-heading"
-                        data-id="649170e" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <p class="elementor-heading-title elementor-size-default">Senior
-                            Associate and Head Designer.</p>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-93fea6a elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor"
-                        data-id="93fea6a" data-element_type="widget"
-                        data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                          <p>With over 25 years of experience with architecture companies,
-                            Anthony&#8217;s creativity and unique approach have made his
-                            designs exceptionally distinctive. Experienced in
-                            architecture house design, his integrity and passion are as
-                            strong as his work ethic.</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-d1839a4"
-                    data-id="d1839a4" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                      <div class="elementor-element elementor-element-0fbbf89 elementor-invisible elementor-widget elementor-widget-image"
-                        data-id="0fbbf89" data-element_type="widget"
-                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
-                        data-widget_type="image.default">
-                        <div class="elementor-widget-container">
-                          <img loading="lazy" decoding="async" width="600" height="600"
-                            src="../wp-content/uploads/2023/03/New-Project-6.jpg"
-                            class="attachment-full size-full wp-image-2218" alt=""
-                            srcset="<?php echo $url; ?>/wp-content/uploads/2023/03/New-Project-6.jpg 600w, <?php echo $url; ?>/wp-content/uploads/2023/03/New-Project-6-300x300.jpg 300w, <?php echo $url; ?>/wp-content/uploads/2023/03/New-Project-6-150x150.jpg 150w"
-                            sizes="(max-width: 600px) 100vw, 600px" />
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-f562925 elementor-widget elementor-widget-heading"
-                        data-id="f562925" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <h3 class="elementor-heading-title elementor-size-default">Pedro
-                            Paul</h3>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-ffd6180 elementor-widget elementor-widget-heading"
-                        data-id="ffd6180" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <p class="elementor-heading-title elementor-size-default">
-                            Architectural Designer</p>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-3140127 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor"
-                        data-id="3140127" data-element_type="widget"
-                        data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                          <p>With Pedro, your architectural designs are always in good
-                            hands. He is an architectural designer with a keen eye for
-                            engineering. Pedro believes that a project achieves success
-                            only when he has a clear understanding of how to construct
-                            it.</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-95a9f1c"
-                    data-id="95a9f1c" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                      <div class="elementor-element elementor-element-552127f elementor-invisible elementor-widget elementor-widget-image"
-                        data-id="552127f" data-element_type="widget"
-                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
-                        data-widget_type="image.default">
-                        <div class="elementor-widget-container">
-                          <img loading="lazy" decoding="async" width="150" height="150"
-                            src="../wp-content/uploads/2023/03/salma-150x150.jpg"
-                            class="attachment-thumbnail size-thumbnail wp-image-2216"
-                            alt=""
-                            srcset="<?php echo $url; ?>/wp-content/uploads/2023/03/salma-150x150.jpg 150w, <?php echo $url; ?>/wp-content/uploads/2023/03/salma-300x300.jpg 300w, <?php echo $url; ?>/wp-content/uploads/2023/03/salma.jpg 600w"
-                            sizes="(max-width: 150px) 100vw, 150px" />
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-a1c9f8c elementor-widget elementor-widget-heading"
-                        data-id="a1c9f8c" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <h3 class="elementor-heading-title elementor-size-default">Salma
-                            Mahgoub</h3>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-4d07777 elementor-widget elementor-widget-heading"
-                        data-id="4d07777" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <p class="elementor-heading-title elementor-size-default">
-                            Architectural Technologist</p>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-8ee67ac elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor"
-                        data-id="8ee67ac" data-element_type="widget"
-                        data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                          <p>An internationally trained professional architect. Salma has
-                            over 10 years of experience in architectural design.
-                            Passionate about bringing clients’ visions to life, Salma
-                            enjoys diverse projects including residential and commercial
-                            building design.</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </section>
-              <section
-                class="elementor-section elementor-inner-section elementor-element elementor-element-b3caa37 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                data-id="b3caa37" data-element_type="section"
-                data-settings="{&quot;_ha_eqh_enable&quot;:false}">
-                <div class="elementor-container elementor-column-gap-default">
-                  <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-f515812"
-                    data-id="f515812" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                      <div class="elementor-element elementor-element-288654b elementor-invisible elementor-widget elementor-widget-image"
-                        data-id="288654b" data-element_type="widget"
-                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
-                        data-widget_type="image.default">
-                        <div class="elementor-widget-container">
-                          <img loading="lazy" decoding="async" width="600" height="600"
-                            src="../wp-content/uploads/2023/03/davi.jpg"
-                            class="attachment-full size-full wp-image-2215" alt=""
-                            srcset="<?php echo $url; ?>/wp-content/uploads/2023/03/davi.jpg 600w, <?php echo $url; ?>/wp-content/uploads/2023/03/davi-300x300.jpg 300w, <?php echo $url; ?>/wp-content/uploads/2023/03/davi-150x150.jpg 150w"
-                            sizes="(max-width: 600px) 100vw, 600px" />
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-528aa51 elementor-widget elementor-widget-heading"
-                        data-id="528aa51" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <h3 class="elementor-heading-title elementor-size-default">Davi
-                            Santana</h3>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-3928648 elementor-widget elementor-widget-heading"
-                        data-id="3928648" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <p class="elementor-heading-title elementor-size-default">
-                            Architectural Designer</p>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-d442df7 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor"
-                        data-id="d442df7" data-element_type="widget"
-                        data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                          <p>Davi is a detail-oriented home architecture design
-                            professional who always relishes the next challenge. He
-                            believes in collaboration, innovation, sustainability, and
-                            technology. For him, the fundamental role of architecture is
-                            to promote overall societal well-being.</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-8b69b3f"
-                    data-id="8b69b3f" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                      <div class="elementor-element elementor-element-8468d64 elementor-invisible elementor-widget elementor-widget-image"
-                        data-id="8468d64" data-element_type="widget"
-                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
-                        data-widget_type="image.default">
-                        <div class="elementor-widget-container">
-                          <img loading="lazy" decoding="async" width="150" height="150"
-                            src="../wp-content/uploads/2023/03/New-Project-7-150x150.jpg"
-                            class="attachment-thumbnail size-thumbnail wp-image-2210"
-                            alt=""
-                            srcset="<?php echo $url; ?>/wp-content/uploads/2023/03/New-Project-7-150x150.jpg 150w, <?php echo $url; ?>/wp-content/uploads/2023/03/New-Project-7-300x300.jpg 300w, <?php echo $url; ?>/wp-content/uploads/2023/03/New-Project-7.jpg 600w"
-                            sizes="(max-width: 150px) 100vw, 150px" />
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-13cd163 elementor-widget elementor-widget-heading"
-                        data-id="13cd163" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <h3 class="elementor-heading-title elementor-size-default">Caio
-                            Braga</h3>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-a74b226 elementor-widget elementor-widget-heading"
-                        data-id="a74b226" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <p class="elementor-heading-title elementor-size-default">
-                            Architectural Designer</p>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-2a5c1b3 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor"
-                        data-id="2a5c1b3" data-element_type="widget"
-                        data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                          <p>Caio is passionate about both architecture and design for
-                            commercial, residential and office buildings. He believes
-                            that the environment must connect with technology to develop
-                            functional, unique, and beautiful spaces.</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-ab28a7f"
-                    data-id="ab28a7f" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                      <div class="elementor-element elementor-element-a26ac82 elementor-invisible elementor-widget elementor-widget-image"
-                        data-id="a26ac82" data-element_type="widget"
-                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
-                        data-widget_type="image.default">
-                        <div class="elementor-widget-container">
-                          <img loading="lazy" decoding="async" width="600" height="600"
-                            src="../wp-content/uploads/2024/06/Untitled-design-66.jpg"
-                            class="attachment-full size-full wp-image-12300" alt=""
-                            srcset="<?php echo $url; ?>/wp-content/uploads/2024/06/Untitled-design-66.jpg 600w, <?php echo $url; ?>/wp-content/uploads/2024/06/Untitled-design-66-300x300.jpg 300w, <?php echo $url; ?>/wp-content/uploads/2024/06/Untitled-design-66-150x150.jpg 150w"
-                            sizes="(max-width: 600px) 100vw, 600px" />
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-c2d26b9 elementor-widget elementor-widget-heading"
-                        data-id="c2d26b9" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <h3 class="elementor-heading-title elementor-size-default">Julio
-                            Sousa</h3>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-728cf22 elementor-widget elementor-widget-heading"
-                        data-id="728cf22" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <p class="elementor-heading-title elementor-size-default">
-                            Architectural Designer</p>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-d83a1ed elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor"
-                        data-id="d83a1ed" data-element_type="widget"
-                        data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                          <p>Julio is a design and technology enthusiast with a passion
-                            for creating functional, sustainable environments. He aims
-                            to positively impact the environment. Julio brings a
-                            critical perspective that enhances both form and function in
-                            every project.</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </section>
-              <section
-                class="elementor-section elementor-inner-section elementor-element elementor-element-3e5c31a elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                data-id="3e5c31a" data-element_type="section"
-                data-settings="{&quot;_ha_eqh_enable&quot;:false}">
-                <div class="elementor-container elementor-column-gap-default">
-                  <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-26f45c5"
-                    data-id="26f45c5" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                      <div class="elementor-element elementor-element-b28a936 elementor-invisible elementor-widget elementor-widget-image"
-                        data-id="b28a936" data-element_type="widget"
-                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
-                        data-widget_type="image.default">
-                        <div class="elementor-widget-container">
-                          <img loading="lazy" decoding="async" width="600" height="600"
-                            src="../wp-content/uploads/2023/03/New-Project-5.jpg"
-                            class="attachment-full size-full wp-image-2209" alt=""
-                            srcset="<?php echo $url; ?>/wp-content/uploads/2023/03/New-Project-5.jpg 600w, <?php echo $url; ?>/wp-content/uploads/2023/03/New-Project-5-300x300.jpg 300w, <?php echo $url; ?>/wp-content/uploads/2023/03/New-Project-5-150x150.jpg 150w"
-                            sizes="(max-width: 600px) 100vw, 600px" />
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-6dce2df elementor-widget elementor-widget-heading"
-                        data-id="6dce2df" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <h3 class="elementor-heading-title elementor-size-default">Tomas
-                            Martins</h3>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-a67ebaf elementor-widget elementor-widget-heading"
-                        data-id="a67ebaf" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <p class="elementor-heading-title elementor-size-default">
-                            Architectural Designer</p>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-85ce1a9 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor"
-                        data-id="85ce1a9" data-element_type="widget"
-                        data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                          <p>As an architectural designer, Tomas has a particular passion
-                            for modern architecture and new building designs. He has
-                            developed some of the most unique and modern concepts. He
-                            believes new building design and beautiful architecture
-                            always start with a solid, good concept and grow from there.
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-99d0991"
-                    data-id="99d0991" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                      <div class="elementor-element elementor-element-3ec25be elementor-invisible elementor-widget elementor-widget-image"
-                        data-id="3ec25be" data-element_type="widget"
-                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
-                        data-widget_type="image.default">
-                        <div class="elementor-widget-container">
-                          <img loading="lazy" decoding="async" width="559" height="566"
-                            src="../wp-content/uploads/2023/03/Picture1-2-e1673536416584.jpg"
-                            class="attachment-full size-full wp-image-2208" alt=""
-                            srcset="<?php echo $url; ?>/wp-content/uploads/2023/03/Picture1-2-e1673536416584.jpg 559w, <?php echo $url; ?>/wp-content/uploads/2023/03/Picture1-2-e1673536416584-296x300.jpg 296w"
-                            sizes="(max-width: 559px) 100vw, 559px" />
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-42bce7c elementor-widget elementor-widget-heading"
-                        data-id="42bce7c" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <h3 class="elementor-heading-title elementor-size-default">Paulo
-                            Lemos</h3>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-2b4f38a elementor-widget elementor-widget-heading"
-                        data-id="2b4f38a" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <p class="elementor-heading-title elementor-size-default">
-                            Architectural Designer</p>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-e0b6251 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor"
-                        data-id="e0b6251" data-element_type="widget"
-                        data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                          <p>Paulo believes that the spaces we create profoundly influence
-                            people’s experiences in society. Passionate about modern and
-                            contemporary architecture, he is dedicated to achieving
-                            great design. He believes in a deep understanding of unique
-                            needs and collaborative efforts.</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b7293f5"
-                    data-id="b7293f5" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                      <div class="elementor-element elementor-element-a7c6735 elementor-invisible elementor-widget elementor-widget-image"
-                        data-id="a7c6735" data-element_type="widget"
-                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
-                        data-widget_type="image.default">
-                        <div class="elementor-widget-container">
-                          <img loading="lazy" decoding="async" width="600" height="600"
-                            src="../wp-content/uploads/2023/03/vikky.jpg"
-                            class="attachment-full size-full wp-image-2212" alt=""
-                            srcset="<?php echo $url; ?>/wp-content/uploads/2023/03/vikky.jpeg 600w, <?php echo $url; ?>/wp-content/uploads/2023/03/vikky-300x300.jpeg 300w, <?php echo $url; ?>/wp-content/uploads/2023/03/vikky-150x150.jpeg 150w"
-                            sizes="(max-width: 600px) 100vw, 600px" />
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-4878fcb elementor-widget elementor-widget-heading"
-                        data-id="4878fcb" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <h3 class="elementor-heading-title elementor-size-default">
-                            Victoria King</h3>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-1bffabe elementor-widget elementor-widget-heading"
-                        data-id="1bffabe" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <p class="elementor-heading-title elementor-size-default">
-                            Interior Designer and Project Manager</p>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-af9a87f elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor"
-                        data-id="af9a87f" data-element_type="widget"
-                        data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                          <p>Victoria brings over 30 years of experience in design and
-                            interior architecture. She has held important design and
-                            marketing roles at a large Canadian retailer. She has also
-                            created beautiful interiors for home builders and private
-                            clients. Her work serves both homes and businesses.</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </section>
-              <section
-                class="elementor-section elementor-inner-section elementor-element elementor-element-72e7fe8 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                data-id="72e7fe8" data-element_type="section"
-                data-settings="{&quot;_ha_eqh_enable&quot;:false}">
-                <div class="elementor-container elementor-column-gap-default">
-                  <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-f10446b"
-                    data-id="f10446b" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                      <div class="elementor-element elementor-element-522970a elementor-invisible elementor-widget elementor-widget-image"
-                        data-id="522970a" data-element_type="widget"
-                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
-                        data-widget_type="image.default">
-                        <div class="elementor-widget-container">
-                          <img loading="lazy" decoding="async" width="600" height="600"
-                            src="../wp-content/uploads/2023/03/glynn.jpg"
-                            class="attachment-full size-full wp-image-2211" alt=""
-                            srcset="<?php echo $url; ?>/wp-content/uploads/2023/03/glynn.jpeg 600w, <?php echo $url; ?>/wp-content/uploads/2023/03/glynn-300x300.jpeg 300w, <?php echo $url; ?>/wp-content/uploads/2023/03/glynn-150x150.jpeg 150w"
-                            sizes="(max-width: 600px) 100vw, 600px" />
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-af461e1 elementor-widget elementor-widget-heading"
-                        data-id="af461e1" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <h3 class="elementor-heading-title elementor-size-default">Glynn
-                            King</h3>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-6aa7352 elementor-widget elementor-widget-heading"
-                        data-id="6aa7352" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <p class="elementor-heading-title elementor-size-default">
-                            Interior Designer and Project Manager</p>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-91a904a elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor"
-                        data-id="91a904a" data-element_type="widget"
-                        data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                          <p>With over 30 years of experience in corporate design,
-                            residential interiors, and mixed-use developments, Glynn
-                            brings a wealth of expertise to every project. He ensures to
-                            bring client visions to life with his strong communication
-                            and project coordination skills.</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-d92f68b"
-                    data-id="d92f68b" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                      <div class="elementor-element elementor-element-4bd9ced elementor-invisible elementor-widget elementor-widget-image"
-                        data-id="4bd9ced" data-element_type="widget"
-                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
-                        data-widget_type="image.default">
-                        <div class="elementor-widget-container">
-                          <img loading="lazy" decoding="async" width="600" height="600"
-                            src="../wp-content/uploads/2024/11/Untitled-design-48.png"
-                            class="attachment-full size-full wp-image-13550" alt=""
-                            srcset="<?php echo $url; ?>/wp-content/uploads/2024/11/Untitled-design-48.png 600w, <?php echo $url; ?>/wp-content/uploads/2024/11/Untitled-design-48-300x300.png 300w, <?php echo $url; ?>/wp-content/uploads/2024/11/Untitled-design-48-150x150.png 150w"
-                            sizes="(max-width: 600px) 100vw, 600px" />
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-a387706 elementor-widget elementor-widget-heading"
-                        data-id="a387706" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <h3 class="elementor-heading-title elementor-size-default">
-                            Ashley Denison
-                          </h3>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-539f937 elementor-widget elementor-widget-heading"
-                        data-id="539f937" data-element_type="widget"
-                        data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <p class="elementor-heading-title elementor-size-default">Office
-                            Manager</p>
-                        </div>
-                      </div>
-                      <div class="elementor-element elementor-element-afba2cb elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor"
-                        data-id="afba2cb" data-element_type="widget"
-                        data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                          <p><span data-olk-copy-source="MessageBody">Ashley is an
-                              important part of our office operations, ensuring
-                              everything runs smoothly and efficiently. With
-                              exceptional organizational skills, she keeps our team on
-                              track and the office functioning seamlessly. In addition
-                              to her role as Office Manager, Ashley brings valuable
-                              expertise to our interior design projects, thanks to her
-                              degree in interior decorating. Her creative insights and
-                              versatility make her an invaluable part of our
-                              team.  </span></p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b710ce2"
-                    data-id="b710ce2" data-element_type="column">
-                    <div class="elementor-widget-wrap">
-                    </div>
-                  </div>
-                </div>
-              </section>-->
             </div>
           </div>
         </div>

@@ -25,17 +25,17 @@ include "../../short.php"
   </style>
 
   <!-- This site is optimized with the Yoast SEO plugin v23.5 - https://yoast.com/wordpress/plugins/seo/ -->
-  <title>West Harbour Condo, Hamilton, ON</title>
+  <title>West Harbour Condo, New York, USA</title>
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css?family=Didact%20Gothic%7COswald%3A200%2C300%2C400%2C500%2C600%2C700%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COswald%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;subset=" />
   <meta name="description"
-    content="The West Harbour Condominium will be Located at the corner of Stuart St and MacNab St. N, in Hamilton, Ontario, and it will be 10 storeys" />
+    content="The West Harbour Condominium will be Located at the corner of Stuart St and MacNab St. N, in New York, USAtario, and it will be 10 storeys" />
   <link rel="canonical" href="index.php" />
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="West Harbour Condo, Hamilton, ON" />
+  <meta property="og:title" content="West Harbour Condo, New York, USA" />
   <meta property="og:description"
-    content="The West Harbour Condominium will be Located at the corner of Stuart St and MacNab St. N, in Hamilton, Ontario, and it will be 10 storeys" />
+    content="The West Harbour Condominium will be Located at the corner of Stuart St and MacNab St. N, in New York, USAtario, and it will be 10 storeys" />
   <meta property="og:url" content="<?php echo $url; ?>/portfolio/west-harbour-condo/" />
   <meta property="og:site_name" content="<?php echo $name; ?>" />
   <meta property="article:modified_time" content="2024-11-20T20:32:00+00:00" />
@@ -53,7 +53,7 @@ include "../../short.php"
         "@type": "WebPage",
         "@id": "<?php echo $url; ?>/portfolio/west-harbour-condo/",
         "url": "<?php echo $url; ?>/portfolio/west-harbour-condo/",
-        "name": "West Harbour Condo, Hamilton, ON",
+        "name": "West Harbour Condo, New York, USA",
         "isPartOf": {
           "@id": "<?php echo $url; ?>/#website"
         },
@@ -66,7 +66,7 @@ include "../../short.php"
         "thumbnailUrl": "<?php echo $url; ?>/wp-content/uploads/2020/08/featured-n-5.jpg",
         "datePublished": "2024-11-20T16:05:54+00:00",
         "dateModified": "2024-11-20T20:32:00+00:00",
-        "description": "The West Harbour Condominium will be Located at the corner of Stuart St and MacNab St. N, in Hamilton, Ontario, and it will be 10 storeys",
+        "description": "The West Harbour Condominium will be Located at the corner of Stuart St and MacNab St. N, in New York, USAtario, and it will be 10 storeys",
         "breadcrumb": {
           "@id": "<?php echo $url; ?>/portfolio/west-harbour-condo/#breadcrumb"
         },
@@ -94,7 +94,7 @@ include "../../short.php"
         }, {
           "@type": "ListItem",
           "position": 2,
-          "name": "West Harbour Condo, Hamilton, ON"
+          "name": "West Harbour Condo, New York, USA"
         }]
       }, {
         "@type": "WebSite",
@@ -128,7 +128,8 @@ include "../../short.php"
   <link rel="alternate" type="application/rss+xml" title="<?php echo $name; ?> &raquo; Comments Feed"
     href="../../comments/feed/index.php" />
   <link rel="alternate" type="application/rss+xml"
-    title="<?php echo $name; ?> &raquo; West Harbour Condo, Hamilton, ON Comments Feed" href="feed/index.php" />
+    title="<?php echo $name; ?> &raquo; West Harbour Condo, New York, USA Comments Feed"
+    href="feed/index.php" />
   <link rel='stylesheet' id='sbi_styles-css'
     href='../../wp-content/plugins/instagram-feed/css/sbi-styles.mind3c7.css?ver=6.5.1' type='text/css'
     media='all' />
@@ -4677,8 +4678,7 @@ We use it here to ensure columns blocks display well across themes.
   <link rel="icon" href="../../wp-content/uploads/2023/03/favicon.png" sizes="32x32" />
   <link rel="icon" href="../../wp-content/uploads/2023/03/favicon.png" sizes="192x192" />
   <link rel="apple-touch-icon" href="../../wp-content/uploads/2023/03/favicon.png" />
-  <meta name="msapplication-TileImage"
-    content="<?php echo $url; ?>/wp-content/uploads/2023/03/favicon.png" />
+  <meta name="msapplication-TileImage" content="<?php echo $url; ?>/wp-content/uploads/2023/03/favicon.png" />
   <script>
     function setREVStartSize(e) {
       //window.requestAnimationFrame(function() {
@@ -5596,8 +5596,7 @@ We use it here to ensure columns blocks display well across themes.
     <!-- Header Banner -->
 
     <section class="banner-header banner-img valign bg-img bg-fixed" data-size="cover" data-position=""
-      data-overlay-light="8"
-      data-background="<?php echo $url; ?>/wp-content/uploads/2020/08/featured-n-5.jpg"
+      data-overlay-light="8" data-background="<?php echo $url; ?>/wp-content/uploads/2020/08/featured-n-5.jpg"
       data-scroll-index="0">
       <!-- Left Panel -->
 
@@ -5955,7 +5954,7 @@ We use it here to ensure columns blocks display well across themes.
                         data-widget_type="heading.default">
                         <div class="elementor-widget-container">
                           <p class="elementor-heading-title elementor-size-default">
-                            Hamilton, ON</p>
+                            New York, USA</p>
                         </div>
                       </div>
                     </div>
@@ -5975,7 +5974,7 @@ We use it here to ensure columns blocks display well across themes.
                         <div class="elementor-widget-container">
 
                           <h2 class="section-title2 text-left">West Harbour Condo,
-                            Hamilton, ON</h2>
+                            New York, USA</h2>
 
 
 
@@ -5987,7 +5986,7 @@ We use it here to ensure columns blocks display well across themes.
                         <div class="elementor-widget-container">
 
                           <p>The West Harbour Condominium will be located at the corner of
-                            Stuart St. and MacNab St. N, in Hamilton, Ontario, and it
+                            Stuart St. and MacNab St. N, in New York, USAtario, and it
                             will be 10 storeys high with approximately 87 units and 2
                             underground parking levels. The building is situated close
                             to the property lines resulting in greater exposure from the
@@ -6001,7 +6000,7 @@ We use it here to ensure columns blocks display well across themes.
                           <h5>Project Details</h5>
                           <ul>
                             <li>Client: Essence Homes</li>
-                            <li>Location: Hamilton, ON</li>
+                            <li>Location: New York, USA</li>
                             <li>GFA: 95,000 sq. ft.</li>
                             <li>Year Completed: Estimated 2024</li>
                             <li>Budget: TBD</li>
@@ -6126,7 +6125,8 @@ We use it here to ensure columns blocks display well across themes.
                 <p><a
                     href="mailto:<?php echo $email; ?>#.html#bad3d4dcd5fad6d3d7dbdbc8d9d2d3cedfd9cec9d3d4d994d9d5d7"><span
                       class=""
-                      data="4c25222a230c2025212d2d3e2f242538292f383f25222f622f2321"><?php echo $email; ?> </span></a>
+                      data="4c25222a230c2025212d2d3e2f242538292f383f25222f622f2321"><?php echo $email; ?>
+                    </span></a>
                 </p>
 
 
@@ -6143,8 +6143,7 @@ We use it here to ensure columns blocks display well across themes.
 
 
                 <p>
-                  <a href="#"
-                    target="_blank"><?php echo $addr; ?></a>
+                  <a href="#" target="_blank"><?php echo $addr; ?></a>
 
                 </p>
 
@@ -6172,24 +6171,22 @@ We use it here to ensure columns blocks display well across themes.
                 <script>
                   document.write(/\d{4}/.exec(Date())[0])
                 </script> <?php echo $name; ?><br>
-                <small>Developed By <a href="<?php echo $url; ?>" target="_blank"><?php echo $name; ?></a></small>
+                <small>Developed By <a href="<?php echo $url; ?>"
+                    target="_blank"><?php echo $name; ?></a></small>
               </div>
             </div>
             <div class="col-md-4 abot">
               <div class="social-icon">
 
-                <a href="https://www.facebook.com/" target="_blank"><i
-                    class="ti-facebook"></i></a>
+                <a href="https://www.facebook.com/" target="_blank"><i class="ti-facebook"></i></a>
 
 
-                <a href="https://twitter.com" target="_blank"><i
-                    class="ti-twitter"></i></a>
+                <a href="https://twitter.com" target="_blank"><i class="ti-twitter"></i></a>
 
 
 
 
-                <a href="https://www.linkedin.com/" target="_blank"><i
-                    class="ti-linkedin"></i></a>
+                <a href="https://www.linkedin.com/" target="_blank"><i class="ti-linkedin"></i></a>
 
 
 
@@ -6597,7 +6594,7 @@ We use it here to ensure columns blocks display well across themes.
       "post": {
         "id": 7234,
         "title": "West%20Harbour%20Condo%2C%20Hamilton%2C%20ON",
-        "excerpt": "The West Harbour Condominium will be Located at the corner of Stuart St and MacNab St. N, in Hamilton, Ontario, and it will be 10 storeys high with approx. 87 units and 2 underground parking levels.\u00a0 The building is situated close to the property lines resulting in greater exposure from the public roads.",
+        "excerpt": "The West Harbour Condominium will be Located at the corner of Stuart St and MacNab St. N, in New York, USAtario, and it will be 10 storeys high with approx. 87 units and 2 underground parking levels.\u00a0 The building is situated close to the property lines resulting in greater exposure from the public roads.",
         "featuredImage": "https:\/\/<?php echo $urlh; ?>\/wp-content\/uploads\/2020\/08\/featured-n-5.jpg"
       }
     };

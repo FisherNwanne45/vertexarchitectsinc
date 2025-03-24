@@ -4695,8 +4695,7 @@ We use it here to ensure columns blocks display well across themes.
 	<link rel="icon" href="../wp-content/uploads/2023/03/favicon.png" sizes="32x32" />
 	<link rel="icon" href="../wp-content/uploads/2023/03/favicon.png" sizes="192x192" />
 	<link rel="apple-touch-icon" href="../wp-content/uploads/2023/03/favicon.png" />
-	<meta name="msapplication-TileImage"
-		content="<?php echo $url; ?>/wp-content/uploads/2023/03/favicon.png" />
+	<meta name="msapplication-TileImage" content="<?php echo $url; ?>/wp-content/uploads/2023/03/favicon.png" />
 	<script>
 		function setREVStartSize(e) {
 			//window.requestAnimationFrame(function() {
@@ -5613,8 +5612,7 @@ We use it here to ensure columns blocks display well across themes.
 
 
 		<section class="banner-header banner-img valign bg-img bg-fixed" data-size="cover" data-position=""
-			data-overlay-light="8"
-			data-background="<?php echo $url; ?>/wp-content/uploads/2022/04/22-2.jpg"
+			data-overlay-light="8" data-background="<?php echo $url; ?>/wp-content/uploads/2022/04/22-2.jpg"
 			data-scroll-index="0">
 			<!-- Left Panel -->
 
@@ -5875,7 +5873,7 @@ We use it here to ensure columns blocks display well across themes.
 
 																				<img decoding="async"
 																					src="../wp-content/uploads/2020/08/featured-n-5-540x317.jpg"
-																					alt="West Harbour Condo, Hamilton, ON">
+																					alt="West Harbour Condo, New York, USA">
 																			</div>
 																			<div class="con overlay-full-auto">
 																				<h6 class="category"><span
@@ -5887,7 +5885,8 @@ We use it here to ensure columns blocks display well across themes.
 																					</span></h6>
 																				<h3
 																					class="title bn-post-title-grid">
-																					West Harbour Condo, Hamilton, ON
+																					West Harbour Condo, New York,
+																					USA
 																				</h3>
 																				<div class="line"></div>
 
@@ -9009,7 +9008,8 @@ We use it here to ensure columns blocks display well across themes.
 														<div class="testimoni-wrapper">
 															<div class="testimony">
 																<p> “Working with <?php echo $name; ?> was amazing.
-																	<?php echo $oga; ?> is a great person to work with and he
+																	<?php echo $oga; ?> is a great person to work
+																	with and he
 																	helped me design my dream house. He always
 																	listens and provides great feedback. I would
 																	highly recommend working with this business!”
@@ -9123,7 +9123,8 @@ We use it here to ensure columns blocks display well across themes.
 																			alt="quote"></span>
 																	<p>
 																	<p>“Working with <?php echo $name; ?> was
-																		amazing. <?php echo $oga; ?> is a great person to work
+																		amazing. <?php echo $oga; ?> is a great
+																		person to work
 																		with and he helped me design my dream house.
 																		He always listens and provides great
 																		feedback. I would highly recommend working
@@ -9146,9 +9147,11 @@ We use it here to ensure columns blocks display well across themes.
 																			decoding="async"
 																			src="../wp-content/themes/bauen/includes/images/quot.png"
 																			alt="quote"></span>
-																	<p>“We chose <?php echo $name; ?> based on a referral
+																	<p>“We chose <?php echo $name; ?> based on a
+																		referral
 																		from a friend and builder. Our experience
-																		dealing directly with <?php echo $name; ?> has
+																		dealing directly with <?php echo $name; ?>
+																		has
 																		been very rewarding as we enjoy the patience
 																		and professionalism that their team
 																		provides. We shared our big picture dream,
@@ -9173,13 +9176,16 @@ We use it here to ensure columns blocks display well across themes.
 																			src="../wp-content/themes/bauen/includes/images/quot.png"
 																			alt="quote"></span>
 																	<p>“Totally impressed!! I have had a pleasure
-																		working with <?php echo $oga; ?> from <?php echo $name; ?> As a professional Architect, he listens
+																		working with <?php echo $oga; ?> from
+																		<?php echo $name; ?> As a professional
+																		Architect, he listens
 																		carefully and understands your taste and
 																		needs and while his fee is fair, he's
 																		totally professional and responsive. He'll
 																		sure get the design of your dream home done,
 																		above and beyond your expectations. I cannot
-																		say enough good things about <?php echo $oga; ?>, but
+																		say enough good things about
+																		<?php echo $oga; ?>, but
 																		all in all, it was a pleasure working with
 																		him and I look forward to working with him
 																		in the future.”</p>
@@ -9200,12 +9206,14 @@ We use it here to ensure columns blocks display well across themes.
 																			decoding="async"
 																			src="../wp-content/themes/bauen/includes/images/quot.png"
 																			alt="quote"></span>
-																	<p>“I have known <?php echo $oga; ?> for several years and
+																	<p>“I have known <?php echo $oga; ?> for several
+																		years and
 																		have hired his services for 2 residential
 																		and one commercial jobs. He is very
 																		professional, has great ideas and is
 																		responsive to adjustments and innovative
-																		concepts. <?php echo $oga; ?> has always been fair with
+																		concepts. <?php echo $oga; ?> has always
+																		been fair with
 																		pricing and pays attention to the fine
 																		details required. His company is 5 stars in
 																		my books!”</p>
@@ -9226,7 +9234,8 @@ We use it here to ensure columns blocks display well across themes.
 																			decoding="async"
 																			src="../wp-content/themes/bauen/includes/images/quot.png"
 																			alt="quote"></span>
-																	<p>“<?php echo $name; ?> patiently worked with us to
+																	<p>“<?php echo $name; ?> patiently worked with
+																		us to
 																		explore the different possibilities on a
 																		variety of projects that included commercial
 																		properties and residential subdivisions.
@@ -9237,7 +9246,8 @@ We use it here to ensure columns blocks display well across themes.
 																		client-architect relationship. We are
 																		appreciative of the help, and we have a
 																		great deal of respect both for the work the
-																		firm does as well as for <?php echo $oga; ?> and the
+																		firm does as well as for <?php echo $oga; ?>
+																		and the
 																		rest of the team.”</p>
 																	<div class="info">
 																		<div class="author-img"> <img
@@ -9256,7 +9266,8 @@ We use it here to ensure columns blocks display well across themes.
 																			decoding="async"
 																			src="../wp-content/themes/bauen/includes/images/quot.png"
 																			alt="quote"></span>
-																	<p>“<?php echo $oga; ?> is a brilliant architect who has a
+																	<p>“<?php echo $oga; ?> is a brilliant architect
+																		who has a
 																		real eye for design! I have worked with him
 																		personally and found him and his firm to be
 																		most accommodating and wanting to go that
@@ -9280,7 +9291,8 @@ We use it here to ensure columns blocks display well across themes.
 																			decoding="async"
 																			src="../wp-content/themes/bauen/includes/images/quot.png"
 																			alt="quote"></span>
-																	<p>“We have been working with <?php echo $name; ?>
+																	<p>“We have been working with
+																		<?php echo $name; ?>
 																		for almost two years, they have designed a
 																		Banquet Hall for us, they are very
 																		professional and responsive to every
@@ -9306,9 +9318,11 @@ We use it here to ensure columns blocks display well across themes.
 																			decoding="async"
 																			src="../wp-content/themes/bauen/includes/images/quot.png"
 																			alt="quote"></span>
-																	<p>“<?php echo $oga; ?> and his team designed a new home
+																	<p>“<?php echo $oga; ?> and his team designed a
+																		new home
 																		for our family in Mississauga/Mineola West
-																		area. <?php echo $oga; ?> managed the whole process
+																		area. <?php echo $oga; ?> managed the whole
+																		process
 																		(Site Plan Approval, Committee of
 																		Adjustments, Building Permits) and delivered
 																		every step of the way. We were satisfied
@@ -9497,7 +9511,8 @@ We use it here to ensure columns blocks display well across themes.
 								<p><a
 										href="mailto:<?php echo $email; ?>#.html#7811161e173814111519190a1b10110c1d1b0c0b11161b561b1715"><span
 											class=""
-											data="660f080009260a0f0b070714050e0f12030512150f08054805090b"><?php echo $email; ?> </span></a>
+											data="660f080009260a0f0b070714050e0f12030512150f08054805090b"><?php echo $email; ?>
+										</span></a>
 								</p>
 
 
@@ -9514,14 +9529,12 @@ We use it here to ensure columns blocks display well across themes.
 
 
 								<p>
-									<a href="#"
-										target="_blank"><?php echo $addr; ?></a>
+									<a href="#" target="_blank"><?php echo $addr; ?></a>
 
 								</p>
 
 								<p class="mt-8">
-									<a href="#"
-										target="_blank">Burlington, ON | Canada L7L 6A5</a>
+									<a href="#" target="_blank">Burlington, ON | Canada L7L 6A5</a>
 
 								</p>
 
@@ -9551,18 +9564,15 @@ We use it here to ensure columns blocks display well across themes.
 						<div class="col-md-4 abot">
 							<div class="social-icon">
 
-								<a href="https://www.facebook.com/" target="_blank"><i
-										class="ti-facebook"></i></a>
+								<a href="https://www.facebook.com/" target="_blank"><i class="ti-facebook"></i></a>
 
 
-								<a href="https://twitter.com" target="_blank"><i
-										class="ti-twitter"></i></a>
+								<a href="https://twitter.com" target="_blank"><i class="ti-twitter"></i></a>
 
 
 
 
-								<a href="https://www.linkedin.com/" target="_blank"><i
-										class="ti-linkedin"></i></a>
+								<a href="https://www.linkedin.com/" target="_blank"><i class="ti-linkedin"></i></a>
 
 
 
